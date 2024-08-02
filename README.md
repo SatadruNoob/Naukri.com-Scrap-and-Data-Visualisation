@@ -3,7 +3,14 @@
 
 **Project Description**
 
-This repository contains code for a web scraping and data processing pipeline designed to extract job listings from a job portal, specifically focusing on data analyst positions. The project is divided into two main parts:
+This repository contains code for a web scraping and data processing pipeline designed to extract job listings from a job portal called "www.naukri.com", specifically focusing on "Data Analyst" positions. The project is divided into two main parts Part 1 and Part 2. A total of approx 1000 pages consisting of over 18,000 plus job postings for "Data Analyst" positions. This scraper can be modified to scrap any desired/valid position for any desired nuber of pages. To change the "Data Analyst" positions to any desired position that is valid and available in Naukri.com change the "data-analyst" in function def extract_job_data(page_num) present in script "Web_Scraping_Data_Extraction_Location_Cleaning.py". As indicated in the image below.
+
+![Untitled](https://github.com/user-attachments/assets/41ff5b92-28b5-4402-b249-91f25d3d0220)
+
+In order to change the page numbers to any desired numbers, you can change the start and end page as shown in the image below. Pls make sure that the end page is valid and contains data with regards to you desired job position. As indicated to the image below.
+![Untitled](https://github.com/user-attachments/assets/fb886bea-c92d-4bb6-93d1-fe30a3b909e9)
+
+
 
 **Part 1: Web Scraping_Data Extraction_Location Cleaning**
 **Objective:** 
@@ -17,7 +24,7 @@ This repository contains code for a web scraping and data processing pipeline de
 
  **Code**:
    Set up a Selenium WebDriver with Chrome to scrape job listings.
-   Extract relevant job details including company name, ratings, salary, experience, location, job posting days, description, and skills.
+   Extract relevant job details including Company Name, Ratings, Salary, Experience, Location, Job Posting Days, Description, and Skills.
    Save the extracted data into Excel files.
    Data Cleaning: Perform data cleaning on the extracted job location information. The cleaning process includes:
    Removing brackets and the words within them.
