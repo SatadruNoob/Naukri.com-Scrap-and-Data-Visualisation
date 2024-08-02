@@ -1,0 +1,11 @@
+# System dependencies for running a Selenium web scraping environment with Google Chrome
+
+# Google Chrome
+google-chrome-stable
+
+# Additional utilities
+wget
+unzip
+
+# For handling package installation issues
+apt-transport-https
