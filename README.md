@@ -63,6 +63,18 @@ In order to change the page numbers to any desired numbers, you can change the s
   Apply data visualization techniques on the cleaned data.
 
 
+![#Top Skill Set for Different bangalore](https://github.com/user-attachments/assets/3ad81595-d848-4984-8379-88fcc7ddb56c)
+![#Top Roles by Location](https://github.com/user-attachments/assets/72322fad-4167-41d4-9c95-d72ef3360ac0)
+![Top Locations Contributing to Data Skewness with 'Years of Experience' up to 8](https://github.com/user-attachments/assets/77d74179-2824-4a41-a6b8-f899853ec9a1)
+![Most Skills by Location](https://github.com/user-attachments/assets/9ceb8ef2-0f04-42fb-a6b7-93abd9a08f76)
+![abc](https://github.com/user-attachments/assets/51e9d05b-30d6-42b0-9647-8403af598b34)
+![#Word clouds for each top location](https://github.com/user-attachments/assets/85712555-f96e-4279-86aa-69386abbb957)
+![#Top Skill Set for Different Pune](https://github.com/user-attachments/assets/91255ce3-5bfd-4a11-8075-261f8989e17c)
+![#Top Skill Set for Different Mum](https://github.com/user-attachments/assets/0697b7cc-1267-46e0-a803-127e4bcd56d1)
+![#Top Skill Set for Different Hyd](https://github.com/user-attachments/assets/179d4ec6-7248-4340-aed5-56bfa35645f3)
+
+
+
 **Contributing**
   Forking: Feel free to fork the repository and create pull requests.
 
