@@ -12,7 +12,7 @@ This repository contains code for a web scraping and data processing pipeline de
 
 
 Target/required fields to be extracted are:
-![Target field for data extraction from Target Website]()
+![Target field for data extraction from Target Website](naukri pointers.jpg)
 
 
 
