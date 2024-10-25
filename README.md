@@ -3,11 +3,13 @@
 
 **Project Description**
 
-This repository contains code for a web scraping and data processing pipeline designed to extract job listings from a job portal called "www.naukri.com", specifically focusing on "Data Analyst" positions. The project is divided into two main parts Part 1 and Part 2. A total of approx 1000 pages consisting of over 18,000 plus job postings for "Data Analyst" positions. This scraper can be modified to scrap any desired/valid position for any desired nuber of pages. To change the "Data Analyst" positions to any desired position that is valid and available in Naukri.com change the "data-analyst" in function def extract_job_data(page_num) present in script "Web_Scraping_Data_Extraction_Location_Cleaning.py" which is present in Part 1: Web Scraping_Data Extraction_Location Cleaning. As indicated in the image below.
+This repository contains code for a web scraping and data processing pipeline designed to extract job listings from a job portal called "www.naukri.com", specifically focusing on "Data Analyst" positions. 
 
 
-**Target webpageand the target data points**
+**Target webpage and the target data points**
 
+Company	Ratings	Salary	Years of Experience	Location	Days since Posted	Job Description	Skill Set
+![image](https://github.com/user-attachments/assets/a98317d9-c395-447e-89e1-664209fb7849)
 
 
 
@@ -16,6 +18,10 @@ Required field for data extraction
 ![naukri pointers](https://github.com/user-attachments/assets/8ec8b841-a90a-4820-8176-f05d651a21eb)
 
 
+
+
+
+The project is divided into two main parts Part 1 and Part 2. A total of approx 1000 pages consisting of over 18,000 plus job postings for "Data Analyst" positions. This scraper can be modified to scrap any desired/valid position for any desired nuber of pages. To change the "Data Analyst" positions to any desired position that is valid and available in Naukri.com change the "data-analyst" in function def extract_job_data(page_num) present in script "Web_Scraping_Data_Extraction_Location_Cleaning.py" which is present in Part 1: Web Scraping_Data Extraction_Location Cleaning. As indicated in the image below.
 
 
 ![Untitled](https://github.com/user-attachments/assets/41ff5b92-28b5-4402-b249-91f25d3d0220)
