@@ -83,13 +83,12 @@ In order to change the page numbers to any desired numbers, you can change the s
 
 
 
-  **Extracted Data Points for first 5 pages shown as example**
+**Extracted Data Points for first 5 pages shown as example**
 ![image](https://github.com/user-attachments/assets/2946e8f0-72d5-4460-89b6-d89b9f5a6965)
 
 
   
-
-
+**Applying Data Visualization Techniques**
 ![#Top Skill Set for Different bangalore](https://github.com/user-attachments/assets/3ad81595-d848-4984-8379-88fcc7ddb56c)
 ![#Top Roles by Location](https://github.com/user-attachments/assets/72322fad-4167-41d4-9c95-d72ef3360ac0)
 ![Top Locations Contributing to Data Skewness with 'Years of Experience' up to 8](https://github.com/user-attachments/assets/77d74179-2824-4a41-a6b8-f899853ec9a1)
