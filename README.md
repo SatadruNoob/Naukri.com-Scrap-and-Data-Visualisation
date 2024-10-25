@@ -8,12 +8,12 @@ This repository contains code for a web scraping and data processing pipeline de
 
 **Target webpage and the target data points**
 
+**Target Fields** 
 Company	Ratings	Salary	Years of Experience	Location	Days since Posted	Job Description	Skill Set
-![image](https://github.com/user-attachments/assets/a98317d9-c395-447e-89e1-664209fb7849)
+![image](https://github.com/user-attachments/assets/b9114b10-ce0f-4a29-b923-49d3033b8192)
 
 
-
-
+**Target Fields pointed out in the webpage**
 Required field for data extraction 
 ![naukri pointers](https://github.com/user-attachments/assets/8ec8b841-a90a-4820-8176-f05d651a21eb)
 
