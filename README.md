@@ -12,7 +12,7 @@ This repository contains code for a web scraping and data processing pipeline de
 
 
 
-![website](![naukri pointers](https://github.com/user-attachments/assets/7d661ce9-80b3-48bd-a1b3-34f18f95e529)
+![Target Data Points](![naukri pointers](https://github.com/user-attachments/assets/7d661ce9-80b3-48bd-a1b3-34f18f95e529)
 
 
 
